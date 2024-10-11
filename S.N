@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es" style="margin-left: 6px;
+    margin-right: 6px;
+    border-left-width: 9px;
+    border-right-width: 9px; 
+    title="dior";>
+    </style>
+            <head>
+              <meta http-equiv="X-UA-Compatible" content="IE=edge">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+               <meta name="description" content="cosméticos de lujo, inspirada en Dior.">
+               <meta charset="UTF-8">
+
+</head>
+ <body>
+<body style="margin-left: 24px;
+box-shadow: 10, 10, 10, 10;
+    margin-right: 24px; min-height: 100vh; 
+             background-image: url('https://i.pinimg.com/originals/92/4b/f6/924bf68e914e60ff3168edcf32593668.jpg');
+             background-size: cover; background-position: center; background-repeat: no-repeat;">
+  <font color="#f080c3ff">  <center> <h1> cosmeticos dior<hr></h1></center></font>
+</body>
+
+  <p>Dior es una de las marcas de lujo más reconocidas en el mundo de la moda y la belleza. La división de maquillaje de Dior, llamada <b><i>Dior Makeup</i></b>, es famosa por sus productos <b>de alta <font color="red"> calidad </font> y <font color="red">elegancia. </font></b> Fue fundada por el diseñador <b><font color="red"> <i> Christian Dior</i> </font> </B> en 1946  y ha mantenido una reputación de lujo y estilo desde entonces.</p><p><p><b>Dior también es conocida por lanzar colecciones de edición limitada que se alinean con las temporadas de moda y colaboraciones especiales. La marca combina innovación en fórmulas y presentaciones elegantes, atrayendo tanto a consumidores que buscan lujo como a aquellos interesados en las últimas tendencias de belleza.</b></p>
+<marquee direction="rigth" loop>
+
+<h2><i>dior, mas que una marca es belleza...</I></h2>
+</loop>
+</marquee>
+
+<br>
+<center><iframe width="75%" height="auto" src="https://www.youtube.com/embed/OrxN-3TBSM8" title="Dior Forever - The Iconic Clean Foundation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;" referrerpolicy="strict-origin-when-cross-origin" title=" comercial dior  " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" alt="video Dior" width="60%" heigth="auto;" autoplay="cursor-pointer;" type="video/mp4"; allowfullscreen></iframe></center>
+<br>
+      <p><b> de los productos más populares de la línea de maquillaje Dior incluyen:</b></p>
+
+<b>1:</b><b><font color="red">Dior Addict Lip Glow:</font></b>
+      <selction> 
+      <details name="faq" open>
+      <p>Dior Addict Lip Glow es un bálsamo labial híbrido icónico de la línea de maquillaje Dior, diseñado para realzar el color natural de los labios mientras los hidrata profundamente. Su fórmula está enriquecida con ingredientes nutritivos, como la manteca de mango, que proporcionan hasta 24 horas de hidratación, manteniendo los labios suaves y protegidos.</p><p>Lo que distingue a este producto es su tecnología Color Reviver, que interactúa con el pH de los labios para ajustar el color de manera personalizada, brindando un tono natural que varía según cada persona. El resultado es un acabado brillante y radiante, perfecto para un look fresco y sin esfuerzo. Además, la gama de tonos ha crecido desde el clásico rosa suave hasta incluir opciones como coral, malva y nude, permitiendo a los usuarios elegir entre colores sutiles o más intensos.</p><p><center><img src="https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_1800,c_limit/e_trim/v1/imagens/product/73327/c93a8c09-2b57-4c3a-911c-43ad90590f33-73327-dior-addict-lip-glow-limited-edition-001-pink-gloss-labial-35g.jpeg"width="50%" heigth="350" alt="imagen del producto" width="80%" heigth="auto"></center></p><p>Dior Addict Lip Glow puede usarse solo para un look natural o como base hidratante antes de aplicar otros labiales. También está disponible en varias versiones, como el Lip Glow Oil, que añade un brillo luminoso sin sensación pegajosa, y el Lip Glow Matte, que proporciona un acabado más sutil y duradero.</p></details>
+
+
+<b>2:</b><b><font color="red">Dior Forever Foundation:</font></b>
+      <details name="faq" open>
+     <selction> 
+     <p> Dior Forever Foundation es una base de maquillaje que se ha ganado un lugar destacado en el mundo de la belleza gracias a su capacidad de combinar alta cobertura, larga duración y beneficios para el cuidado de la piel. Esta base ofrece una cobertura media a alta, manteniendo un aspecto impecable y refinado durante hasta 24 horas sin necesidad de retoques. Es conocida por reducir la apariencia de los poros y controlar los brillos, proporcionando un acabado suave y uniforme.</p><P>Lo que hace única a Dior Forever es que no solo mejora la apariencia de la piel a corto plazo, sino que también la cuida con el uso prolongado. Su fórmula está compuesta por un 86% de ingredientes de tratamiento, incluyendo extracto de pensamiento salvaje, que ayuda a hidratar y calmar la piel, y extracto de rosa, conocido por sus propiedades antioxidantes y protectoras. Esto convierte a la base en una opción ideal para quienes buscan un maquillaje que aporte beneficios tanto estéticos como para la salud de la piel.</p><p><center><img src="https://i5.walmartimages.com/asr/cca0264a-a6b0-4c77-b5d6-e099a7a6a245_1.f9b25a55eb18639f498b4b78b4b68479.jpeg"width="50%" eigth="350" alt="imagen del producto" width="800%" heigth="auto"></center></p><p><b>Dior Forever está disponible en dos acabados:</b></p><p>1:Acabado mate, que controla el brillo y ofrece una apariencia refinada, perfecta para pieles mixtas o grasas.</p><p>2:Acabado luminoso, que aporta un brillo natural y saludable, ideal para pieles normales a secas.</p><p>Otro punto a destacar es su protección solar SPF 35, lo que la convierte en una opción versátil para el uso diario, ayudando a proteger la piel contra los daños causados por los rayos UV y el envejecimiento prematuro.</p><p>La gama de tonos de Dior Forever Foundation es amplia, cubriendo una variedad de subtonos para adaptarse a una diversidad de pieles, garantizando que cada persona pueda encontrar el tono perfecto para su cutis.</p><p>En resumen, Dior Forever Foundation combina la cobertura impecable y de larga duración que buscan los amantes del maquillaje, con beneficios para la piel que la hacen una opción equilibrada para quienes desean un look duradero y saludable.</p></details>
+
+<b>3:</b><b> <font color="red">DiorShow Mascara:</font></b>
+      <details name="faq" open>
+      <selction> 
+    <p> Dior Addict Lip Glow es un bálsamo labial icónico que realza el color natural de los labios mientras los hidrata profundamente. Su fórmula está enriquecida con ingredientes como la manteca de mango, que proporciona hasta 24 horas de hidratación, manteniendo los labios suaves y protegidos. Lo más distintivo es su tecnología Color Reviver, que se adapta al pH de los labios, ajustando el tono de manera personalizada para ofrecer un color único en cada persona.</p><p><center><img src="https://www.sephora.com.mx/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dwc07afbf2/images/hi-res/mascara-de-pestanas-dior-dior-diorshow-black-out-waterproof-mascara3348900797468A.jpg" width="50%" heigth="350" alt=" imagen de producto" width="80%" heigth="auto"></center></p><p>Con un acabado brillante y natural, Dior Addict Lip Glow puede usarse solo para un look fresco o como base antes de aplicar otros labiales. Está disponible en una amplia gama de tonos, que van desde los nude suaves hasta colores más intensos, además de variantes como el Lip Glow Oil y el Lip Glow Matte, para diferentes preferencias de acabado. Este producto es perfecto para quienes buscan una combinación de cuidado, color natural y elegancia en un solo paso.</p></details>
+  
+<b>4:</b><b><font color="red">Rouge Dior Lipstick:</font></b>
+      <details name="faq" open>
+   <selction> 
+    <p> Rouge Dior Lipstick es uno de los productos más icónicos de la casa Dior, conocido por su elegancia y calidad. Este labial de alta pigmentación ofrece un color intenso y duradero, con una fórmula que combina confort y belleza. Está disponible en una amplia gama de tonos, que abarcan desde los clásicos rojos y rosas hasta tonalidades más atrevidas, como el ciruela o el nude, ofreciendo opciones para cada estilo y ocasión. Su acabado puede ser mate, satinado o metálico, lo que permite personalizar el look según las preferencias.</p><p><center><img src="https://www.sephora.com.mx/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dw0dd7eb87/images/hi-res/boletos/Dany/dior/labial-dior-rouge-dior-D.jpg"width="50%" heigth="400" alt="imagen de producto" width="80%" heigth="auto"></center></p><p>Además de su color vibrante, Rouge Dior cuida los labios con ingredientes como el extracto de peonía y el extracto de flor de granada, que proporcionan hidratación y protección. La fórmula de este labial ayuda a prevenir la sequedad, manteniendo los labios suaves y cómodos durante horas. Su empaque elegante y lujoso refleja la sofisticación característica de la marca, haciendo de Rouge Dior un símbolo de estilo y feminidad.</p></details>
+    
+<b>5:</b><b><font color="red">Backstage Face & Body Foundation:</font></b>
+      <details name="faq" open>
+  <selction> 
+    <p>Dior Backstage Face & Body Foundation es una base versátil y ligera, inspirada en los productos utilizados por los maquilladores profesionales en las pasarelas. Ofrece una cobertura modulable, desde ligera hasta alta, que permite crear un look natural o más elaborado, dependiendo de las capas que se apliquen. Su fórmula resistente al agua y al sudor garantiza una larga duración, manteniendo el acabado impecable incluso en condiciones extremas. Ideal tanto para el rostro como para el cuerpo, es perfecta para ocasiones especiales o el día a día. </p><p><center><img src ="https://i.ytimg.com/vi/KFXn0Jjhn1M/maxresdefault.jpg" width="50%" eigth="370" alt="imagen de producto" width="100%" heigth="auto"></center></p><p>Esta base se adapta a una amplia gama de tonos de piel, con más de 40 opciones, lo que la convierte en una de las más inclusivas del mercado. Además de su alta capacidad de cobertura, Backstage Face & Body Foundation ofrece un acabado luminoso y suave, sin dejar una sensación pesada. Es un producto favorito entre maquilladores y celebridades por su capacidad de crear un "efecto piel perfecta" que se ve bien tanto en persona como en fotos.</p></details>
+<br>
+<br>
+
+<h1 style: text align="center">Ventas de Productos Dior</h1>
+      
+ <div style="overflow-x: auto;">
+ <table border="1";  cellpadding="10"; cellspacing="0"; style="width: 100%; text-align: center; word-wrap: break-word; text-align: center; word-wrap: break-word; border-left-width: 2px; border-top: 2px; border-down: 2px; border-right-width: 2px; border-bottom-width: 2px; margin-right: auto; alt: Descripción de la tabla; 
+ width="100%"; heigth="auto">
+            <thead border-radius="15px";> 
+                   <tr bgcolor="#0300CCFF">
+                    <th>Producto</th>
+                    <th>Ventas Globales (Millones)</th>
+                    <!-- aqui cambie los colores para las vanderas de cada pais -->
+                    <th>
+                        <span style="color: #FFD700;">Ventas en</span> 
+                        <span style="color: #45E3F8FF;">Colombia</span> 
+                        <span style="color: #CE1126;">(Millones)</span>
+                    </th> <!-- Amarillo, azul y rojo -->
+                    <th>
+                        <span style="color: #B22234;">Ventas en</span> 
+                        <span style="color: #FFFFFF;">Estados</span> 
+                        <span style="color: #45e3f8fF;">Unidos (Millones)</span>
+                    </th> <!-- Rojo, blanco y azul -->
+                    <th>
+                        <span style="color: #FFFFFF;">Ventas en</span> 
+                        <span style="color: #BC002D;">Japón</span> 
+                        <span style="color: #FFFFFF;">(Millones)</span>
+                    </th> <!-- Blanco y rojo -->
+                </tr>
+            </thead>
+            <tbody>
+                <tr bgcolor="#004586FF">
+                    <td>Dior Addict Lip Glow</td>
+                    <td title="Ventas globales: 25 millones/ Este producto es el más vendido a nivel mundial gracias a su popularidad y tecnología Color Reviver.">25</td>
+                    <td title="Ventas en Colombia: 3.5 millones/ Dior Addict Lip Glow ha tenido una gran aceptación en el mercado colombiano por su hidratación prolongada.">3.5</td>
+                    <td title="Ventas en EE.UU.: 12 millones/ Este producto es muy demandado por los consumidores estadounidenses que buscan un color natural con un efecto hidratante.">12</td>
+                    <td title="Ventas en Japón: 9.5 millones/ Los consumidores japoneses aprecian el acabado sutil y brillante que este bálsamo ofrece.">9.5</td>
+                </tr>
+                <tr bgcolor="#0065bdff">
+                    <td>Rouge Dior Lipstick</td>
+                    <td title="Ventas globales: 20 millones/ Rouge Dior Lipstick es conocido por su pigmentación intensa y su fórmula hidratante.">20</td>
+                    <td title="Ventas en Colombia: 2.5 millones/ Su versatilidad y elegancia lo hacen muy popular entre las consumidoras colombianas.">2.5</td>
+                    <td title="Ventas en EE.UU.: 10 millones/ Los tonos vibrantes y de larga duración son preferidos en el mercado estadounidense.">10</td>
+                    <td title="Ventas en Japón: 7.5 millones/ La fórmula de Rouge Dior atrae a los usuarios japoneses por su suavidad y pigmentación.">7.5</td>
+                </tr>
+                <tr bgcolor="#0065bdff">
+                    <td>Dior Forever Foundation</td>
+                    <td title="Ventas globales: 18 millones/ Este producto es conocido por su cobertura impecable y larga duración, popular en todo el mundo.">18</td>
+                    <td title="Ventas en Colombia: 2.2 millones/ Las consumidoras colombianas valoran su capacidad de mantenerse intacta durante horas.">2.2</td>
+                    <td title="Ventas en EE.UU.: 8.8 millones/ El acabado luminoso de esta base es uno de los favoritos en el mercado estadounidense.">8.8</td>
+                    <td title="Ventas en Japón: 7 millones/ La fórmula ligera y natural de esta base es muy apreciada en Japón.">7</td>
+                </tr>
+                <tr bgcolor="#0065bdff">
+                    <td>Dior Backstage Face & Body Foundation</td>
+                    <td title="Ventas globales: 15 millones/ Utilizado tanto en pasarelas como en el uso diario, es una de las bases preferidas por los maquilladores.">15</td>
+                    <td title="Ventas en Colombia: 1.8 millones/ Esta base es valorada por su flexibilidad para crear diferentes niveles de cobertura.">1.8</td>
+                    <td title="Ventas en EE.UU.: 7.5 millones/ Muy popular en el mercado estadounidense, donde se utiliza frecuentemente en eventos especiales y sesiones de fotos.">7.5</td>
+                    <td title="Ventas en Japón: 5.7 millones/ Su textura ligera y resistente al agua es muy valorada por los consumidores japoneses.">5.7</td>
+                </tr>
+                </bgcolor>
+            </tbody>
+        </table>
+      </div>
+    <br>
+<br>
+     <br>
+        <br>
+          <br> 
+             <hr>
+              <p><center><b><i>Dinos que te parecio nuestra pagina</i></b></center></p>
+                <p><center>
+       <button shadow-box-shadow="0" shadow-color="#000000" shadow-offset="0" shadow-blur="0" shadow-spread="0" style="border-radius: 31px; background: linear-gradient(315deg, #0087E0FF, #0011FFFF); box-shadow: -2px -12px 41p#00F7FFFF7c, 8px 11px 41px #0093CEFF; cursor: pointer; hover-color="#00FF37FF;" <div class="toggle";><a href=mailto:"davidmanduca67@gmail.com" target="_blank"; method="post"; padding-left: 11px rigth: 11px>
+           <b><i><font color="#CC5FFFFF">envia tu opinion aqui</font></i></b></a></center></p></button>
+          <hr>
+      <br>
+  <br>
+  <br>
+     <br>
+        <footer>
+          <p style="position: end ;bottom: 0;width: 100%;text-align:center;background-color:#FF00BFFF;">
+         <b><i><font color="#ffffff"><b>&Coproduct; sharic & natalia&copy; &Coproduct;</i></b></font></p>
+        </footer>
+    </body>
+</html>      
